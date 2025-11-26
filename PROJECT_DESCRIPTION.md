@@ -1,6 +1,6 @@
 # Project Description
 
-**Deployed Frontend URL:**
+**Deployed Frontend URL:** <https://program-jagathkiran-1.vercel.app/>
 
 **Solana Program ID:** BAzovQQqx3gzPXQmjZqbWMkeaAmncfQv4q39xu1vbznt
 
@@ -24,7 +24,7 @@ The dApp leverages the Anchor framework for the Solana program and integrates wi
 ### How to Use the dApp
 
 1. **Connect Wallet**
-   - Navigate to the dApp's frontend ().
+   - Navigate to the dApp's frontend (<https://program-jagathkiran-1.vercel.app/>).
    - Click the "Connect Wallet" button and select a Solana-compatible wallet (e.g., Phantom).
    - Authorize the connection to link your wallet's public key to the dApp.
 2. **Create a Diary Entry**:
